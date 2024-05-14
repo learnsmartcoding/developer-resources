@@ -6,7 +6,7 @@ A collection of code examples, snippets, and tutorials for various programming t
 1. [Angular 17 Authentication Guard Example](#angular-17-authentication-guard-example)
    - [Video Link](https://www.youtube.com/watch?v=Gm6FfkIsTC8)
    - [User Comment](@chimepalden7073)
-   - [Code Example](#code-example)
+   - [Code Example](https://github.com/learnsmartcoding/developer-resources/blob/main/angular/user-chimepalden7073-auth-guard-example.ts#code-example)
 
 ## Angular 17 Authentication Guard Example
 
@@ -19,5 +19,5 @@ A collection of code examples, snippets, and tutorials for various programming t
 ### Code Example
 You can find the detailed code example in the following file:
 
-[user-chimepalden7073-auth-guard-example.ts](./user-chimepalden7073-auth-guard-example.ts)
+[user-chimepalden7073-auth-guard-example.ts](https://github.com/learnsmartcoding/developer-resources/blob/main/angular/user-chimepalden7073-auth-guard-example.ts)
 
